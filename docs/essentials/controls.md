@@ -245,7 +245,7 @@ And here's what the resulting UI looks like:
 
 ### Specify initial preset color swatches
 
-For `color` controls, you can specify an array of `presetColors`, either on the `control` in `argTypes`, or as a parameter under the `controls` namespace:
+For `color` controls, you can specify an array of up to 27 `presetColors`, either on the `control` in `argTypes`, or as a parameter under the `controls` namespace:
 
 <!-- prettier-ignore-start -->
 
